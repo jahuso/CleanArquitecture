@@ -1,0 +1,17 @@
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Data.deps.json
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Data.runtimeconfig.json
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Data.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Data.pdb
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Domain.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArquitecture.Domain.pdb
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.csproj.AssemblyReference.cache
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.AssemblyInfoInputs.cache
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.AssemblyInfo.cs
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.csproj.CoreCompileInputs.cache
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.csproj.CopyComplete
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\refint\CleanArquitecture.Data.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.pdb
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArquitecture.Data.genruntimeconfig.cache
+C:\Pers\CleanArquitecture\CleanArquitecture.Data\obj\Debug\net6.0\ref\CleanArquitecture.Data.dll
