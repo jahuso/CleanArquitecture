@@ -70,3 +70,4 @@ C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\refint\CleanArq
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitecture.API.pdb
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitecture.API.genruntimeconfig.cache
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\ref\CleanArquitecture.API.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitecture.API.MvcApplicationPartsAssemblyInfo.cs
