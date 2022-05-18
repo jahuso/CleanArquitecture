@@ -3,8 +3,9 @@ using CleanArquitecture.Application.Contracts.Infrastructure;
 using CleanArquitecture.Application.Contracts.Persistence;
 using CleanArquitecture.Application.Models;
 using CleanArquitecture.Domain;
-using MediatR;
 using Microsoft.Extensions.Logging;
+using MediatR;
+
 
 namespace CleanArquitecture.Application.Features.Streamers.Commands
 {
@@ -16,7 +17,7 @@ namespace CleanArquitecture.Application.Features.Streamers.Commands
         private readonly IEmailService _emailService;
         private readonly ILogger _logger;
 
-        public CreateStreamerStreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, IEmailService emailService, ILogger logger)
+        public CreateStreamerStreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, IEmailService emailService, ILogger<CreateStreamerStreamerCommandHandler> logger)
         {
             _streamerRepository = streamerRepository;
             _mapper = mapper;

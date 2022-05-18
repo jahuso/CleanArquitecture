@@ -71,3 +71,8 @@ C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitectu
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitecture.API.genruntimeconfig.cache
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\ref\CleanArquitecture.API.dll
 C:\Pers\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArquitecture.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Pers\CleanArquitecture\CleanArquitecture.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.API\bin\Debug\net6.0\SendGrid.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.API\bin\Debug\net6.0\Humanizer.dll
+C:\Pers\CleanArquitecture\CleanArquitecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

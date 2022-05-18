@@ -13,7 +13,7 @@ namespace CleanArquitecture.Application.Features.Streamers.Commands.UpdateStream
         private readonly IMapper _mapper;
         private readonly ILogger _logger;
 
-        public UpdateStreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, ILogger logger)
+        public UpdateStreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, ILogger<UpdateStreamerCommandHandler> logger)
         {
             _streamerRepository = streamerRepository;
             _mapper = mapper;
